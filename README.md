@@ -324,7 +324,7 @@ MANAGE ALL YOUR LOCATIONS IN ONE PLACE! Our software takes care of everything yo
      </div></td>
  </tr>
 </table>
-<h2>HOW TO INSTALL THE MAGENTO 2 STORE LOCATOR PLUGIN.</h2>
+<h2>HOW TO INSTALL THE MAGENTO 2 STORE LOCATOr EXTENSION.</h2>
 <ul>
   <p>
 Step 1:
